@@ -32,4 +32,4 @@ async def pilih(ctx):
     else:
         await ctx.send("masukkan ke dalam sampah anorganik")
 
-bot.run("MTExMDU2MDE3MDY3ODk0Mzg0Ng.G1A0H3.NvXrQXKrVY4xsytnj_EpZrmQgefUaHI9YihcJY")
+bot.run("masukkan token kamu ke sini")
